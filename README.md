@@ -1,4 +1,4 @@
-# <center>FordGo Bicycle Sharing System</center>
+# <center>BikeFlow: Investigating User Behavior in the FordGo Bike Sharing Network</center>
 ### <center>by</center>
 ## <center>Shedrack David</center>
 
